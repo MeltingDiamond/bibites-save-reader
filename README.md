@@ -9,7 +9,7 @@ If you want any other feature in the program just tell me and I will update it.
 
 
 
-How to copy bibites or eggs from a save file to another one:
+## How to copy bibites or eggs from a save file to another one:
 
 1. Run the .exe and choose a save to copy from.
 
