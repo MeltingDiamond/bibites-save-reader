@@ -22,3 +22,10 @@ You can now view the stats for a choosen bibite.
 4. Wait untill the text at the bottom says it is copied.
 
 5. Open the save in The Bibites, there you will find the bibites/eggs you just copied. (It will display the wrong amount of bibites on the save, but that is fixed by saving normally.)
+
+
+## If you download beta zip
+Unzip and keep everything in the same folder. If you do not do that it will give an error, you can make a shortcut to the exe if you want.
+
+### If you want to have a custom reskin for the bibite (Untested, but should work)
+replace the ProceduralSprites folder found in the Sprites folder with the ProceduralSprites from the reskin you wish to use.
